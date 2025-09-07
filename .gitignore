@@ -1,0 +1,22 @@
+# OS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+.env.*
+.ipynb_checkpoints/
+
+# Data (keep big/raw data out of git)
+data/
+!data/sample/               # keep small samples
+data/raw/
+data/processed/
+models/
+
+# Node/JS (if used)
+node_modules/
+dist/
+coverage/
