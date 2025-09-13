@@ -60,8 +60,6 @@ jupyter lab
 - [ ] Package `src/` as an installable module.
 - [ ] Create a simple Streamlit/Flask demo for what‑if analysis.
 
-## Course / Credit (optional)
-- IS 670 – Machine Learning for Business Analytics • Group project
 
 ## License
 MIT — see `LICENSE`.
